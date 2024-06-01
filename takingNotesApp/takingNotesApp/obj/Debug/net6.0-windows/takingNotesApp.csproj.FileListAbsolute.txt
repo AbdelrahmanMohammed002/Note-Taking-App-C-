@@ -1,0 +1,17 @@
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\bin\Debug\net6.0-windows\takingNotesApp.exe
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\bin\Debug\net6.0-windows\takingNotesApp.deps.json
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\bin\Debug\net6.0-windows\takingNotesApp.runtimeconfig.json
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\bin\Debug\net6.0-windows\takingNotesApp.dll
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\bin\Debug\net6.0-windows\takingNotesApp.pdb
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.csproj.AssemblyReference.cache
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.noteTaker.resources
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.csproj.GenerateResource.cache
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.AssemblyInfoInputs.cache
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.AssemblyInfo.cs
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.csproj.CoreCompileInputs.cache
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.dll
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\refint\takingNotesApp.dll
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.pdb
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\takingNotesApp.genruntimeconfig.cache
+E:\STUDY\Colleage\L2, S3\C# projects\takingNotesApp\takingNotesApp\obj\Debug\net6.0-windows\ref\takingNotesApp.dll
